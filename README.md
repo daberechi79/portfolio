@@ -1,2 +1,2 @@
-title dabby
-theme: jekyl.theme-minimal
+title: dabby
+theme: jekyil.theme-minimal
